@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/rail",
+    "textures": {
+        "rail": "block/rail",
+        "particle": "block/rail"
+    }
+}
