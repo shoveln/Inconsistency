@@ -1,0 +1,6 @@
+{
+    "parent": "item/template/lilypad",
+    "textures": {
+        "lilypad": "block/lily_pad"
+    }
+}

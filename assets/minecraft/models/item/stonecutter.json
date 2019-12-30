@@ -1,0 +1,9 @@
+{   
+    "parent": "item/template/stonecutter",
+    "textures": {
+        "bottom": "block/stonecutter_bottom",
+        "top": "block/stonecutter_top",
+        "side": "block/stonecutter_side",
+        "saw": "block/stonecutter_saw"
+    }
+}
