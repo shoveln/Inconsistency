@@ -1,0 +1,6 @@
+{
+    "parent": "item/template/iron_bars",
+    "textures": {
+		"bars": "block/iron_bars"
+    }
+}
