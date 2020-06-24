@@ -1,5 +1,18 @@
-# Consistency
+# Inconsistency
 A Minecraft resource pack that changes some block models and their associated item models.
 
 ## Installation
-Downloads can be found on [Curseforge](https://www.curseforge.com/minecraft/texture-packs/inconsistency)
+### Curseforge
+Download links are hosted on [Curseforge](https://www.curseforge.com/minecraft/texture-packs/inconsistency).
+### Manual installation
+Navigate to the resourcepacks folder in your Minecraft 1.15 installation:
+
+```
+$ git clone --single-branch --branch 1.15 https://github.com/shoveln/Inconsistency
+```
+
+To update to newer versions:
+
+```
+$ git pull origin 1.15
+```
