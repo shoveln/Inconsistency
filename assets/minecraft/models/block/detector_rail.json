@@ -2,7 +2,7 @@
     "parent": "block/template/detector_rail",
     "textures": {
         "rail": "block/rail",
-        "detector": "block/detector_rail",
-        "particle": "block/rail"
+        "button": "block/detector_rail",
+        "particle": "block/detector_rail"
     }
 }
