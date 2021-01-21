@@ -1,0 +1,7 @@
+{
+    "parent": "block/template/detector_rail",
+    "textures": {
+        "rail": "inconsistency/detector_rail",
+        "particle": "block/rail"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "item/template/activator_rail",
+    "textures": {
+        "rail": "inconsistency/activator_rail",
+        "particle": "block/activator_rail"
+    }
+}
