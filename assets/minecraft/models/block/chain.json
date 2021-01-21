@@ -1,0 +1,7 @@
+{
+    "parent": "block/template/chain",
+    "textures": {
+        "chain": "block/chain",
+        "particle": "block/chain"
+    }
+}
