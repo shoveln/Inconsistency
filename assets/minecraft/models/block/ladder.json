@@ -1,0 +1,7 @@
+{
+    "parent": "block/template/ladder",
+    "textures": {
+        "ladder": "block/ladder",
+        "particle": "block/ladder"
+    }
+}
