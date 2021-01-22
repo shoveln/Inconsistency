@@ -1,7 +1,6 @@
 {
     "parent": "block/template/rail_corner",
     "textures": {
-        "rail_old": "inconsistency/rail_corner",
         "rail": "inconsistency/rail",
         "particle": "block/rail"
     }
